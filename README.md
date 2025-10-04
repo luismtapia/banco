@@ -19,7 +19,7 @@ Simulación de atención en ventanilla bancaria. Se modela el flujo de clientes 
 
 <div align="center">
    
-  [![Static Badge](https://img.shields.io/badge/Descargar-%2385C8C8?style=flat&logo=abdownloadmanager&logoColor=%2300465B)](/Proyecto1BancoTec/dist/README.md)
+  [![Static Badge](https://img.shields.io/badge/Descargar-%2385C8C8?style=flat&logo=abdownloadmanager&logoColor=%2300465B)](/dist/README.md)
 
 </div>
 
